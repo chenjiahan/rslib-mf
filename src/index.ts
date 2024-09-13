@@ -1,3 +1,3 @@
-export function example(): string {
-  return 'hello world';
-}
+import Button from './Button';
+
+export { Button };
